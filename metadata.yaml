@@ -1,0 +1,29 @@
+_repo: Eyebright--A-Story_27223
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27223-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coolidge, Susan
+    alias: Woolsey, Sarah Chauncey
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '1508'
+    url: http://www.gutenberg.org/2009/agents/1508
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
+description: ''
+gutenberg_issued: '2008-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Students -- Juvenile fiction'
+title: 'Eyebright: A Story'
+url: http://www.gutenberg.org/ebooks/27223
